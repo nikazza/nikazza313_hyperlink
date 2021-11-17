@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>My Website</title>
+</head>
+<body>
+
+		<a href="Home Page.html">Home</a>
+		<a href="Biodata.html">Biodata</a>
+		<a href="Gallery.html">Gallery</a>
+
+<center><h1>My Home Page</h1>
+<p>Hello,everyone. Welcome to my page. I hope you guys enjoy my journey.</p>
+<p>I am easily entertained person.</p>
+<p>So, I hope you guys will enjoy my Journey!</p>
+
+<center><h1>My Biodata</h1>
+<p>Name: NIK AZZA BINTI NIK ZURAIMI </p>
+<p>Age: 21 years old </p>
+<p>Birth Places: Hospital Besar Ipoh, Perak
+<p>Nickname: Jaa
+<p>Hobby: Playing badminton, Watching K-drama and listening to music</p>
+
+<p>Email: <a href="mailto:nikazza313@gmail.com">My Email address</a></p>
+<p>Twitter: <a href="https://twitter.com/nikazza">My twitter link</a></p>
+
+
+<center>My Gallery</center>
+<a href="https://www.instagram.com/p/COzV1d6D-y5T97wUn5PVIOH4ZydkvJOR3cw8lE0/">My photo 1</a>
+<a href="https://www.instagram.com/p/CAjok9eDJKcnGg8u8f1ZHwK2NM3YNDyCQ4mr0I0/">My photo 2</a>
+<a href="https://www.instagram.com/p/B-YbBH8DJw6AKHiufbd2rHDbydHZNMJ5ZWXskA0/">My photo 3</a>
+<a href="https://www.instagram.com/p/ByxZ7G9jQs5Vsot6WQ_nbJO5tmWt4Id6W5MlUY0/">My photo 4</a>
+<a href="https://www.instagram.com/p/B2XA_FoDz2S4BMfah9s_QuxHmhj7750dvonXZs0/">My photo 5</a>
+
+<p><a href="https://www.instagram.com/nikazza313/"> This is my Instagram Link</a></p>
+
+</head>
+<body>
